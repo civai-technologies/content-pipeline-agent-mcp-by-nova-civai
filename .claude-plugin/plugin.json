@@ -3,7 +3,7 @@
   "name": "content-pipeline-agent-by-nova",
   "displayName": "Content Pipeline Agent by Nova (CIVAI)",
   "version": "1.1.0",
-  "description": "I run the Content Pipeline for your Nova products, scan trends, expand seeds into opportunities, generate drafts, publish to your configured destination, and submit for indexing",
+  "description": "Run a content pipeline: scan trends, expand seeds into topics, generate drafts, publish them, and submit pages for search indexing.",
   "author": {
     "name": "CIVAI TECHNOLOGIES",
     "email": "nifemialpine@nova.civai.co",
